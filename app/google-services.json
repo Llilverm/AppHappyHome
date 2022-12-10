@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118587842040",
+    "project_id": "apphappyciclo4",
+    "storage_bucket": "apphappyciclo4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118587842040:android:92b37d0655cb8b0ffd8a0d",
+        "android_client_info": {
+          "package_name": "com.example.apphappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118587842040-iq2rsuges6lkakuhqjcel3r9juivpjpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apphappy",
+            "certificate_hash": "4d4dd0eaf2fd6e6aceeb25775647a364e0a6e595"
+          }
+        },
+        {
+          "client_id": "118587842040-1q7t6oqmbo0c5lms0dh9lffse7kpvdse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGimaYJy4CwQ_4BOQv9a246M_Nx_i2cF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118587842040-1q7t6oqmbo0c5lms0dh9lffse7kpvdse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
